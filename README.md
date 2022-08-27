@@ -1,2 +1,1 @@
-# docker-compose-kafka
-# docker-compose-kafka
+(base) ➜  kafka docker compose -f kafka-full.yml up -d 
